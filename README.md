@@ -54,7 +54,7 @@ This repository explores the application of **deep learning models** to predict 
 
 ---
 
-## Environment & Dependencies
+## Environment
 - Python 3.9+
 - Jupyter Notebook
 - Libraries:
@@ -62,7 +62,3 @@ This repository explores the application of **deep learning models** to predict 
   - `scikit-learn`
   - `tensorflow` / `keras`
   - `matplotlib`, `seaborn`
-
-Install dependencies:
-```bash
-pip install -r requirements.txt
